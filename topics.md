@@ -7,6 +7,7 @@
 - [2026-05-28：为什么《杀戮尖塔》成功](notes/2026-05-28-slay-the-spire-success.md)
 - [2026-05-29：为什么《女神异闻录》的 UI 这么优秀](notes/2026-05-29-persona-ui-design.md)
 - [2026-06-01：为什么《我的世界》和《泰拉瑞亚》能一直成功](notes/2026-06-01-minecraft-terraria-success.md)
+- [2026-06-01：推测《永劫无间》皮肤“漫渲版”是怎么实现的](notes/2026-06-01-naraka-toon-skin-rendering.md)
 
 ## 卡牌构筑
 
@@ -40,6 +41,11 @@
 ## 技术美术
 
 - [2026-05-29：为什么《女神异闻录》的 UI 这么优秀](notes/2026-05-29-persona-ui-design.md)
+- [2026-06-01：推测《永劫无间》皮肤“漫渲版”是怎么实现的](notes/2026-06-01-naraka-toon-skin-rendering.md)
+
+## 渲染技术
+
+- [2026-06-01：推测《永劫无间》皮肤“漫渲版”是怎么实现的](notes/2026-06-01-naraka-toon-skin-rendering.md)
 
 ## UI 设计
 
