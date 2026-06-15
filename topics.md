@@ -9,6 +9,7 @@
 - [2026-06-01：为什么《我的世界》和《泰拉瑞亚》能一直成功](notes/2026-06-01-minecraft-terraria-success.md)
 - [2026-06-01：推测《永劫无间》皮肤“漫渲版”是怎么实现的](notes/2026-06-01-naraka-toon-skin-rendering.md)
 - [2026-06-10：为什么《Balatro》会成功](notes/2026-06-10-balatro-success.md)
+- [2026-06-15：为什么《Hades》能把 Roguelike 和叙事结合起来](notes/2026-06-15-hades-roguelike-narrative.md)
 
 ## 卡牌构筑
 
@@ -19,6 +20,7 @@
 
 - [2026-05-28：为什么《杀戮尖塔》成功](notes/2026-05-28-slay-the-spire-success.md)
 - [2026-06-10：为什么《Balatro》会成功](notes/2026-06-10-balatro-success.md)
+- [2026-06-15：为什么《Hades》能把 Roguelike 和叙事结合起来](notes/2026-06-15-hades-roguelike-narrative.md)
 
 ## 沙盒生存
 
@@ -30,18 +32,24 @@
 
 ## 关卡设计
 
+- [2026-06-15：为什么《Hades》能把 Roguelike 和叙事结合起来](notes/2026-06-15-hades-roguelike-narrative.md)
+
 ## 系统设计
 
 - [2026-05-28：为什么《杀戮尖塔》成功](notes/2026-05-28-slay-the-spire-success.md)
 - [2026-06-01：为什么《我的世界》和《泰拉瑞亚》能一直成功](notes/2026-06-01-minecraft-terraria-success.md)
 - [2026-06-03：Lua 对游戏制作的影响](notes/2026-06-03-lua-game-development-impact.md)
 - [2026-06-10：为什么《Balatro》会成功](notes/2026-06-10-balatro-success.md)
+- [2026-06-15：为什么《Hades》能把 Roguelike 和叙事结合起来](notes/2026-06-15-hades-roguelike-narrative.md)
 
 ## 战斗与数值
 
 - [2026-05-28：为什么《杀戮尖塔》成功](notes/2026-05-28-slay-the-spire-success.md)
+- [2026-06-15：为什么《Hades》能把 Roguelike 和叙事结合起来](notes/2026-06-15-hades-roguelike-narrative.md)
 
 ## 叙事设计
+
+- [2026-06-15：为什么《Hades》能把 Roguelike 和叙事结合起来](notes/2026-06-15-hades-roguelike-narrative.md)
 
 ## 技术美术
 
@@ -68,8 +76,10 @@
 
 - [2026-06-03：Lua 对游戏制作的影响](notes/2026-06-03-lua-game-development-impact.md)
 - [2026-06-10：为什么《Balatro》会成功](notes/2026-06-10-balatro-success.md)
+- [2026-06-15：为什么《Hades》能把 Roguelike 和叙事结合起来](notes/2026-06-15-hades-roguelike-narrative.md)
 
 ## 独立游戏开发
 
 - [2026-06-03：Lua 对游戏制作的影响](notes/2026-06-03-lua-game-development-impact.md)
 - [2026-06-10：为什么《Balatro》会成功](notes/2026-06-10-balatro-success.md)
+- [2026-06-15：为什么《Hades》能把 Roguelike 和叙事结合起来](notes/2026-06-15-hades-roguelike-narrative.md)
