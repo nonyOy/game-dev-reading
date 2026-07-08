@@ -59,6 +59,7 @@
 - [2026-07-06：从《Metaphor: ReFantazio》学习游戏 UI 美术](notes/2026-07-06-metaphor-refantazio-ui-art.md)
 - [2026-07-06：AI 生图做游戏 UI 的使用方法、注意点和制作流程](notes/2026-07-06-ai-generated-game-ui-workflow.md)
 - [2026-07-07：游戏 UI 从美术稿到引擎落地的制作流程](notes/2026-07-07-game-ui-engine-implementation.md)
+- [2026-07-08：Unity 项目里游戏 UI 资源和 Prefab 的组织方法](notes/2026-07-08-unity-ui-prefab-asset-workflow.md)
 
 ## 渲染技术
 
@@ -74,6 +75,7 @@
 - [2026-07-06：从《Metaphor: ReFantazio》学习游戏 UI 美术](notes/2026-07-06-metaphor-refantazio-ui-art.md)
 - [2026-07-06：AI 生图做游戏 UI 的使用方法、注意点和制作流程](notes/2026-07-06-ai-generated-game-ui-workflow.md)
 - [2026-07-07：游戏 UI 从美术稿到引擎落地的制作流程](notes/2026-07-07-game-ui-engine-implementation.md)
+- [2026-07-08：Unity 项目里游戏 UI 资源和 Prefab 的组织方法](notes/2026-07-08-unity-ui-prefab-asset-workflow.md)
 
 ## UI 美术
 
@@ -81,6 +83,7 @@
 - [2026-07-06：从《Metaphor: ReFantazio》学习游戏 UI 美术](notes/2026-07-06-metaphor-refantazio-ui-art.md)
 - [2026-07-06：AI 生图做游戏 UI 的使用方法、注意点和制作流程](notes/2026-07-06-ai-generated-game-ui-workflow.md)
 - [2026-07-07：游戏 UI 从美术稿到引擎落地的制作流程](notes/2026-07-07-game-ui-engine-implementation.md)
+- [2026-07-08：Unity 项目里游戏 UI 资源和 Prefab 的组织方法](notes/2026-07-08-unity-ui-prefab-asset-workflow.md)
 
 ## AI 工具
 
@@ -90,6 +93,7 @@
 
 - [2026-06-03：Lua 对游戏制作的影响](notes/2026-06-03-lua-game-development-impact.md)
 - [2026-07-07：游戏 UI 从美术稿到引擎落地的制作流程](notes/2026-07-07-game-ui-engine-implementation.md)
+- [2026-07-08：Unity 项目里游戏 UI 资源和 Prefab 的组织方法](notes/2026-07-08-unity-ui-prefab-asset-workflow.md)
 
 ## 制作流程
 
@@ -99,6 +103,7 @@
 - [2026-07-06：从《Metaphor: ReFantazio》学习游戏 UI 美术](notes/2026-07-06-metaphor-refantazio-ui-art.md)
 - [2026-07-06：AI 生图做游戏 UI 的使用方法、注意点和制作流程](notes/2026-07-06-ai-generated-game-ui-workflow.md)
 - [2026-07-07：游戏 UI 从美术稿到引擎落地的制作流程](notes/2026-07-07-game-ui-engine-implementation.md)
+- [2026-07-08：Unity 项目里游戏 UI 资源和 Prefab 的组织方法](notes/2026-07-08-unity-ui-prefab-asset-workflow.md)
 
 ## 独立游戏开发
 
